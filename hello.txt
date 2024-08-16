@@ -1,0 +1,3 @@
+This is the first file named hello.txt
+Git is everything in code world!
+All the first version is above. 
