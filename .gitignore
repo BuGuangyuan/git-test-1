@@ -1,0 +1,5 @@
+*.a
+/TODO
+*.pdf
+*doc/*.txt
+!libsdk.a
